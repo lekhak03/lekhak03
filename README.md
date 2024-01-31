@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deep Lekhak</h1>
+
 <h3 align="center">I am student at University of Waterloo studying Combinatorics and Optimization.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep03" alt="deep03" /></a> </p>
 
 - 🔭 I’m currently working on [football data visualization](https://github.com/Deep03/footballdb)
+  
+- 🔭 I’m currently working on [FaceNet Paper Implementation](https://github.com/Deep03/FaceDetect)
+
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
-
-- 🔭 I’m currently working on [FaceNet Paper Implementation](https://github.com/Deep03/FaceDetect)
 
 - 👨‍💻 All of my projects are available at [https://deep03.github.io/](https://deep03.github.io/)
 
