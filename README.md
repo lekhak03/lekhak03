@@ -2,9 +2,7 @@
 
 <h3 align="center">I am student at University of Waterloo studying Combinatorics and Optimization.</h3>
 
-- 🔭 I’m currently working on [football data visualization](https://github.com/Deep03/footballdb)
-
-- 🔭 I’m currently working on [FaceNet Paper Implementation](https://github.com/Deep03/FaceDetect)
+- 🔭 I’m currently working on [football data visualization](https://github.com/Deep03/footballdb), [FaceNet Paper Implementation](https://github.com/Deep03/FaceDetect)
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
