@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on [football data visualization](https://github.com/Deep03/footballdb)
 
+- 🔭 I’m currently working on [FaceNet Paper Implementation](https://github.com/Deep03/FaceDetect)
+
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
-- 🔭 I’m currently working on [FaceNet Paper Implementation](https://github.com/Deep03/FaceDetect)
 
 - 👨‍💻 All of my projects are available at [https://deep03.github.io/](https://deep03.github.io/)
 
