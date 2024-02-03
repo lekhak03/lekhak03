@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lekhakdeep10@gmail.com**
 
-- ⚡ Fun Fact **Dark Humour is my forte**
+- ⚡ Fun Fact: **Dark Humour is my forte**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
