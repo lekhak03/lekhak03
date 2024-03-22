@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
 
-- 👨‍💻 All of my projects are available to view at [https://lekhak.me/](https://lekhak.me/)
+- 👨‍💻 All of my projects are available to view at [lekhak.me](https://lekhak.me/)
 
 - 📫 How to reach me **lekhakdeep10@gmail.com**
 
