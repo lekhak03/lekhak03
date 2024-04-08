@@ -6,12 +6,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
-
 - 👨‍💻 All of my projects are available to view at [lekhak.me](https://lekhak.me/)
 
 - 📫 How to reach me **lekhakdeep10@gmail.com**
-
-- ⚡ Fun Fact: **Dark Humour is my forte**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/dlekhak/">LinkedIn</a></h3>
 <p align="left">
