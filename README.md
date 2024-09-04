@@ -2,7 +2,7 @@
 
 <h3 align="center">I am student at University of Waterloo studying Combinatorics and Optimization.</h3>
 
-- 🔭 I’m currently working on an Unreal Engine Project.
+- 🔭 I’m currently working on a distributed systems project.
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
