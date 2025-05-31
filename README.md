@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deep Lekhak</h1>
 
-<h3 align="center">I am student at University of Waterloo studying Combinatorics and Optimization.</h3>
+<h3 align="center">I am student at University of Waterloo studying Applied Mathematics, Minoring in CS</h3>
 
 - 🔭 I’m currently working on a distributed systems project.
 
