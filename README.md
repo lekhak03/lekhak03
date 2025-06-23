@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deep Lekhak</h1>
 
-<h3 align="center">I am student at University of Waterloo studying Applied Mathematics, Minoring in CS</h3>
+<h3 align="center">I am student at University of Waterloo majoring in Mathematics, and Minoring in CS</h3>
 
-- 🔭 I’m currently working on a distributed systems project.
+- 🔭 I’m currently working on a real time collaboration Sketch app
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
