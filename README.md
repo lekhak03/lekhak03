@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
-- 👨‍💻 All of my projects are available to view at [https://deep03.github.io](https://deep03.github.io/)
+- 👨‍💻 All of my projects are available to view at [https://lekhak03.github.io](https://lekhak03.github.io/)
 
 - 📫 How to reach me **lekhakdeep10@gmail.com**
 
