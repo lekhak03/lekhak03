@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deep Lekhak</h1>
+<h1 align="center">Hi 👋, I'm Deepak Lekhak</h1>
 
 <h3 align="center">I am student at University of Waterloo majoring in Mathematics, and Minoring in CS</h3>
 
