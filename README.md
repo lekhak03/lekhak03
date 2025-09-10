@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available to view at [https://lekhak03.github.io](https://lekhak03.github.io/)
 
-- 📫 How to reach me **lekhakdeep10@gmail.com**
+- 📫 How to reach me **lekhakdeepak10@gmail.com**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/dlekhak/">LinkedIn</a></h3>
 <p align="left">
