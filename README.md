@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **lekhakdeepak10@gmail.com**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/dlekhak/">LinkedIn</a></h3>
 <p align="left">
 </p>
 
